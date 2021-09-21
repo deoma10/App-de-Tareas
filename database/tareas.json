@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Despertar 5:00 am",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Meditar 5:30 am",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Ejercicio 6:00 am",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Desayunar 6:30 am",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Trabajar 7:00 am",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Break 10:00 am",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Continuar trabajo 10:15 am",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Almorzar 12:30 pm",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Trabajo en la tarde 2:00 pm",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Terminar trabajo 5:00 pm",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Enviar correo a cliente 4:30 pm",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Cenar 8:00 pm",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Ver Breaking Bad 8:30 pm",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Dormir 10:00 pm",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Despertar 5:00 am martes ",
+        "estado": "Pendiente"
+    }
+]
